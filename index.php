@@ -77,7 +77,6 @@
             else
             {
                 $html = "<div class='tile x-$xval-y-$yval'>";
-                $html .= "$xval, $yval";
                 $html .= "</div>";
             }
 
